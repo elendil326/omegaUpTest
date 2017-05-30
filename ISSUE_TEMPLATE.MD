@@ -1,35 +1,39 @@
-<!--- Provide a general summary of the issue in the Title above in the form of 
-As a <type of user> I want <a goal> so that <benefit>
-E.g. As a <website user>, I want <a "home" button> so that <I can return to the homepage with a single click.>-->
+*En el caso de un feature, provee un título en el siguiente formato:*
 
-## Expected Behavior
-<!--- If you're describing a bug, tell us what should happen -->
-<!--- If you're suggesting a change/improvement, tell us how it should work -->
+*Como un [tipo de usuario], quiero [funcionalidad o mejora esperada] para [beneficio esperado]*
 
-## Current Behavior
-<!--- If describing a bug, tell us what happens instead of the expected behavior -->
-<!--- If suggesting a change/improvement, explain the difference from current behavior -->
+*E.g. Como [usuario], quiero [un botón de inicio] para [poder regresar a la página inicial con un solo click]*
 
-## Possible Solution
-<!--- Not obligatory, but suggest a fix/reason for the bug, -->
-<!--- or ideas how to implement the addition or change -->
+## Comportamiento Esperado
+*Si estás describiendo un bug, describe lo que pasó*
 
-## Steps to Reproduce (for bugs)
-<!--- Provide a link to a live example, or an unambiguous set of steps to -->
-<!--- reproduce this bug. Include code to reproduce, if relevant -->
-1.
-2.
-3.
-4.
+*Si estás sugiriendo un cambio/mejora, describe cómo debería funcionar*
 
-## Context
-<!--- How has this issue affected you? What are you trying to accomplish? -->
-<!--- Providing context helps us come up with a solution that is most useful in the real world -->
 
-## Your Environment
-<!--- Include as many relevant details about the environment you experienced the bug in -->
-* Version used:
-* Environment name and version (e.g. Chrome 39, node.js 5.4):
-* Operating System and version (desktop or mobile):
-* Screenshot of issue:
-* Link to the site in which this issue happens:
+## Comportamiento Actual
+*Si estás describiendo un bug, dinos lo que paso en lugar de lo que se esperaba*
+
+*Si estás sugiriendo un cambio/mejora, explicanos la diferencia con la funcionalidad actual*
+
+## Posible Solución
+*No es obligatorio, pero puedes sugerir una manera de arreglar el bug, o ideas de cómo implementar la mejora*
+
+
+## Pasos para reproducir (para bugs)
+*Provee un link a un ejemplo, o una lista de pasos detallada de cómo reproducir este bug. Incluye el código que lo reproduce, si es relevante*
+1. 
+2. 
+3. 
+4. 
+
+## Contexto
+*Cómo te ha afectado este issue? Cuál es el objetivo a cumplir?*
+
+*Proveer contexto nos ayuda a encontrar la solución adecuada*
+
+## Tu ambiente
+*Incluye los detalles relevantes acerca del ambiente en el que reproduciste este bug*
+* Nombre del navegador (e.g. Chrome 39, node.js 5.4):
+* Sistema Operativo y versión (escritorio o móbil):
+* Link al sitio en el que este problema pasa:
+* Captura de pantalla:
